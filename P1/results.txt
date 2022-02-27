@@ -1,0 +1,8 @@
+times_dec_normal_saes.txt -> 0.021097183227539062
+times_enc_normal_saes.txt -> 0.021317720413208008
+times_dec_shuffle_saes.txt -> 0.021869897842407227
+times_enc_shuffle_saes.txt -> 0.022135019302368164
+times_dec_pycrypto_aes.txt -> 1.7881393432617188e-05
+times_enc_pycrypto_aes.txt -> 1.6689300537109375e-05
+times_dec_cryptography_aes.txt -> 0.0004296302795410156
+times_enc_cryptography_aes.txt -> 0.00046181678771972656
